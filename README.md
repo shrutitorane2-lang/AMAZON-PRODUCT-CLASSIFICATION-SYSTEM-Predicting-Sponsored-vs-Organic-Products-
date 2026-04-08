@@ -1,8 +1,7 @@
 project title - AMAZON PRODUCT CLASSIFICATION SYSTEM
 Predicting Sponsored vs Organic Products using Machine Learning
 
-# Amazon Recommendation System
-This project builds a product recommendation workflow using Amazon product sales data in Jupyter Notebook.
+
 
 ## Project Files
 
